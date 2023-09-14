@@ -17,7 +17,7 @@ username="komyo"
 password="myo"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="100"
+sshlimiter="200"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
