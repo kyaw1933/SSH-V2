@@ -28,13 +28,13 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h4><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+Singapore server 
 </font></h4>
 <h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+GCP SERVER BY Myogyi
 </font></h4>
 <h4><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+အဆင်ပြေကြပါစေ 
 </font></h4>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
